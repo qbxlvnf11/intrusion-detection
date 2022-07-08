@@ -1,15 +1,15 @@
 Description
 =============
 
-#### - Invasion Detection
+#### - Intrusion Detection
 - Detection of human (person bounding box) intrusion into the detection area
 
 Contents
 =============
 
-#### - Invasion Detection
+#### - Intrusion Detection
 - Set Detecting Area: set the area to be detected
-- Invasion detection: checking rate of overlapping of person bounding box with detecting area 
+- Intrusion detection: checking rate of overlapping of person bounding box with detecting area 
 
 Dataset
 =============
