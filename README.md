@@ -7,11 +7,12 @@ Description
 Contents
 =============
 
+#### - Intrusion Detection
+
 <img src="https://user-images.githubusercontent.com/52263269/178081760-9c296736-21bc-4694-b540-8d5ec6e689e2.png" width="30%"></img>
 
-#### - Intrusion Detection
-- Set Detecting Area: set the area to be detected
-- Intrusion detection: checking rate of overlapping of person bounding box with detecting area 
+- Set Detecting Area: set the area to be detected (red polylines in above image)
+- Intrusion detection: checking rate of overlapping of person bounding box with detecting area (red bounding boxes in above image)
 
 Dataset
 =============
